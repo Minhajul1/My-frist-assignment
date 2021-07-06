@@ -1,0 +1,30 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: rgb(92, 84, 84);
+}
+.cook{
+    color: #ff5e00;
+}
+section{
+    display: flex;
+}
+.content1{
+    width: 50%;
+    padding-left: 5%;
+}
+.content1 img{
+     width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,rgb(255, 92, 71));
+    padding: 17px  40px;
+    color: white;
+    border-radius: 20px;
+}
+.link{
+    padding-top: 60px;
+}
