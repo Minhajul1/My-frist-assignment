@@ -10,6 +10,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .content1{
     width: 50%;
@@ -27,4 +28,13 @@ section{
 }
 .link{
     padding-top: 60px;
+}
+.second-description{
+    padding-top: 200px;
+}
+.second-content{
+    background-image: url(shapes/Frame\ 59.jpg);
+}
+.second-pera{
+    padding-bottom: 60px;
 }
